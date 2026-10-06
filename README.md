@@ -1,3 +1,8 @@
 # SONshine-Wiki
+Programmieren einer Wiki-Seite über unsere Schule.
 
-pls only upload in the "upload-here"-branch
+*AUFGABEN*
+- Evilyn: Zuständig für Design/Website Layout
+- Alexander/Pascal: Zuständig für Programmieren
+- Alle: Informationen Raussuchen
+
