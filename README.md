@@ -45,3 +45,8 @@ Fächer: Deutsch, Mathe, Englisch, 2. Fremdsprache, Biologie, Chemie, Physik, Ge
 - Text: Kurze Absätze, viele Stichpunkte
 - Bilder: ca. 1 Bild pro 2 Abschnitte.
 - Quellen: URL, Abruf Datum & Zeit
+
+
+Layout und Disign (Evi):
+
+...
