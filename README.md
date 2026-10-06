@@ -3,7 +3,7 @@ Erstellung einer Wiki-Seite über unsere Schule.
 
 *AUFGABEN ZUTEILUNG*
 
-- Evilyn: Zuständig für Design/Website Layout
+- Evelyn: Zuständig für Design/Website Layout
 - Alexander/Pascal: Zuständig für Programmieren
 - Alle: Informationen Raussuchen
 
