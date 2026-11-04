@@ -1,5 +1,5 @@
 # SONshine-Wiki
-Arbeitspaket 5 - Präsentation 
+ Arbeitspaket 5 - Präsentation 
 
 Ziel: Die fertige Schulwebsite der Klasse und dem Lehrer vorstellen.
 
