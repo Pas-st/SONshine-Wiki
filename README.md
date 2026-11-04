@@ -11,10 +11,16 @@ Ziel: Alle Texte, Links und Fotos über die 107. Oberschule sammeln, bevor wir a
 
  1.4: Räume und Ausstattung auflisten (PC-Kabinette, Lehrküche, Werkstätten, Mensa, etc).  
 
- 1.5: Infos zur Berufsorientierung sammeln (Praxisberater, Zukunftstage, Kooperationen).  
+1.5: Infos zu GTAs (Welche Ganztags Angebote es gibt bzw. wie man sich anmeldet).
 
- 1.6: Schulfotos machen oder heraussuchen (z.b. Bilder vom Gebäude, Schulhof).  
+ 1.6: Infos zur Berufsorientierung sammeln (Praxisberater, Zukunftstage, Kooperationen).  
 
- 1.7: Einverständnis für Fotos und Logo klären (Dürfen wir das Schullogo und die Fotos für das Projekt benutzen).  
+ 1.7: Schulfotos machen oder heraussuchen (z.b. Bilder vom Gebäude, Schulhof).  
 
- 1.8: Ordner im Team anlegen (Alle gesammelten Texte und Bilder an einem Ort abspeichern).
+ 1.8: Einverständnis für Fotos und Logo klären (Dürfen wir das Schullogo und die Fotos für das Projekt benutzen).  
+
+ 1.9: Ordner im Team anlegen (Alle gesammelten Texte und Bilder an einem Ort abspeichern). 
+
+
+
+
