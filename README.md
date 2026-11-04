@@ -15,4 +15,4 @@ Ziel: Planen, wie die Website aussehen soll und wie die Seiten aufgebaut sind.
 
  2.6: Digitalen Entwurf erstellen (z.b in Canva oder in anderen Apps je nach Präferenz).
 
- 2.7: Entwurf in der Gruppe besprechen (“Teamleiter”zeigen und Rückmeldung einarbeiten).
+ 2.7: Entwurf in der Gruppe besprechen (“Teamleiter” zeigen und Rückmeldung einarbeiten).  
