@@ -1,5 +1,4 @@
 # SONshine-Wiki
-
 Arbeitspaket 1 - Infos sammeln 
 
 Ziel: Alle Texte, Links und Fotos über die 107. Oberschule sammeln, bevor wir anfangen zu coden.
