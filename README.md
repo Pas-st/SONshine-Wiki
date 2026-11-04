@@ -1,3 +1,4 @@
+# SONshine-Wiki
 Arbeitspaket 2 - Website-Layout 
 
 Ziel: Planen, wie die Website aussehen soll und wie die Seiten aufgebaut sind.
